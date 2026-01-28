@@ -1,2 +1,2 @@
 # Digital-Clock
-I have designed a Digital Clock using HTML and CSS. I am just starting out. 
+I have designed a Digital Clock using HTML, CSS and Javascript. I am just starting out. 
